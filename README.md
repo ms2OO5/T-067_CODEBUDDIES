@@ -26,6 +26,8 @@ team member Saloni Kaushal- Data science, data preprocessing
   
 # speacial note 
     For running ML model you need to install python libraries, numpy,pandas,matplotlib,sckitl,tensorflow
+# Demo_krishiMitra Drive link
+    https://drive.google.com/file/d/1zIkaMSP1PQW37hyFNqg2QaLKNofq1pDs/view?usp=sharing
     
 
 
